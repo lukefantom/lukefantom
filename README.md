@@ -11,9 +11,12 @@ After several years working in the technology industry, mainly focusing on hardw
 - React
 - Node.js
 - PostgreSQL
+- Jest
 
 ### 🌱 I’m currently learning
 - React Native
+- React Testing Library
+- Harvard CS50
 
 ### 💬 Ask me about
 - My amazing School of Code experience and demo day project [SoCietly](https://societly.netlify.app)
