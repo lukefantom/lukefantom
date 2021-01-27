@@ -1,8 +1,5 @@
 ### Hey there, I'm Luke 👋
 
-<!--
-**lukefantom/lukefantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a software developer, designer and music producer who recently graduated from the [School of Code](https://www.schoolofcode.co.uk/). 
 
 I have a strong passion for creating content and collaborating with others, whether this be through writing, music or technology. With a background in audio engineering, computer networking and hardware.
