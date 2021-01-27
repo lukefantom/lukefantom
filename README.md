@@ -5,9 +5,9 @@ I am a software developer, designer and music producer who recently graduated fr
 After several years working in the technology industry, mainly focusing on hardware support for companies such as WeWork and Apple, I decided to take the leap and swap the toolkit for JavaScript and join the School of Code. In addition to the technical and theoretical skills built along the way, we were challenged in ways we wouldn't have imagined prior to the bootcamp. Whether this be communication, teamwork, collaborating remotely or decision making, it has been a transformative journey. I am now excited to apply my skills and passion for coding within a new field and develop further as a full-stack engineer.
 
 ### 🔭 Primary experience
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript ES6
 - React
 - Node.js
 - PostgreSQL
