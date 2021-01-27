@@ -27,7 +27,7 @@ After several years working in the technology industry, mainly focusing on hardw
 - [atlas](https://soundcloud.com/at-las)
 
 ✍️ Catch me writing over at ...
-[Culture Villain](https://culturevillain.co.uk)
+- [Culture Villain](https://culturevillain.co.uk)
 
 📫 How to reach me: ...
-Reach out via [LinkedIn](https://linkedin.com/in/lukefantom) or [Email](mailto:luke.fantom@gmail.com)
+- Reach out via [LinkedIn](https://linkedin.com/in/lukefantom) or [Email](mailto:luke.fantom@gmail.com)
