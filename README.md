@@ -9,6 +9,7 @@ After several years working in the technology industry, mainly focusing on hardw
 - CSS3
 - JavaScript ES6
 - React
+- Create React App
 - Node.js
 - PostgreSQL
 - Jest
@@ -16,6 +17,7 @@ After several years working in the technology industry, mainly focusing on hardw
 ### 🌱 I’m currently learning
 - React Native
 - React Testing Library
+- Next.js
 - Harvard CS50
 
 ### 💬 Ask me about
