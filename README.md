@@ -15,6 +15,7 @@ After several years working in the technology industry, mainly focusing on hardw
 - Jest
 
 ### 🌱 I’m currently learning
+- GraphQL
 - React Native
 - React Testing Library
 - Next.js
