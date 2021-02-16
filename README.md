@@ -2,7 +2,7 @@
 
 I am a software developer, designer and music producer who recently graduated from the [School of Code](https://www.schoolofcode.co.uk/). I have a strong passion for creating content and collaborating with others, whether this be through writing, music or technology. With a background in audio engineering, computer networking and hardware.
 
-After several years working in the technology industry, mainly focusing on hardware support for companies such as WeWork and Apple, I decided to take the leap and swap the toolkit for JavaScript and join the School of Code. From creating my first 'Hello World' repo in Week 1, to building full-stack applications in remote agile teams by Week 16, it's fair to say we were challenged in ways we wouldn't have imagined prior to the bootcamp! In addition to theoretical and technical skills built along the way, we were able to refine our interpersonal, collaboration and presentation skills along the way, on what has been a transformative journey!
+After several years working in the technology industry, mainly focusing on hardware support for companies such as WeWork and Apple, I decided to take the leap and swap the toolkit for JavaScript and join the School of Code. From creating the first "Hello World" repo in Week-1, to building full-stack applications in remote agile teams by Week-16, it's fair to say we were challenged in ways we wouldn't have imagined prior to the bootcamp! In addition to the theoretical and technical skills built along the way, we were able to refine our interpersonal, collaboration and presentation skills, on what has been a transformative journey!
 
 I am now excited to apply my skills and passion for coding within a new field and develop further as a full-stack engineer.
 
