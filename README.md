@@ -2,7 +2,7 @@
 
 I am a full-stack software developer who recently graduated from the [School of Code](https://www.schoolofcode.co.uk/). With a background in music production, I have always been passionate about how technology can be used creatively, and through learning to code, I have discovered a new passion for creative problem solving.
 
-After several years working in the technology industry, mainly focusing on hardware support for companies such as WeWork and Apple, I decided to take the leap and swap the toolkit for JavaScript and join the School of Code. From creating the first "Hello World" repo in Week-1, to building full-stack applications in remote agile teams by Week-16, it's fair to say we were challenged in ways we wouldn't have imagined prior to the bootcamp! In addition to the theoretical and technical skills built along the way, we were able to refine our interpersonal, collaboration and presentation skills, on what has been a transformative journey!
+After several years working in the technology industry, mainly focusing on hardware support, I decided to take the leap and swap the toolkit for JavaScript and join the School of Code. From creating the first "Hello World" repo in Week-1, to building full-stack applications in remote agile teams by Week-16, it's fair to say we were challenged in ways we wouldn't have imagined prior to the bootcamp! In addition to the theoretical and technical skills built along the way, we were able to refine our interpersonal, collaboration and presentation skills, on what has been a transformative journey!
 
 ### 🧱 Current Projects
 - My personal [portfolio](https://lukefantom.com). Built using React, this was an opportunity to learn Next.js and Tailwind CSS to build a responsive and dynamic website.
