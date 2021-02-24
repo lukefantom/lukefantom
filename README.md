@@ -21,7 +21,6 @@ After several years working in the technology industry, mainly focusing on hardw
 ### 🌱 I’m currently learning
 - GraphQL
 - React Native
-- React Testing Library
 - Next.js
 - Harvard CS50
 
