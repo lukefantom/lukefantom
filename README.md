@@ -11,7 +11,7 @@ After several years working in the technology industry, mainly focusing on hardw
 
 ### 🔭 Primary experience
 - HTML5
-- CSS3
+- CSS
 - JavaScript ES6
 - React
 - Node.js
