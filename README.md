@@ -10,6 +10,7 @@ After several years working in the technology industry, mainly focusing on hardw
 - Building a mobile application for a small tech startup, using React Native. The application aims to support local coffee shops by highlighting independent businesses in local areas. 
 
 ### 🔭 Primary experience
+![html](https://github.com/lukefantom/lukefantom/blob/main/icons8-html-5.svg)
 - HTML5
 - CSS3
 - JavaScript ES6
