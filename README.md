@@ -6,7 +6,7 @@ After several years working in the technology industry, mainly focusing on hardw
 
 ### 🧱 Current Projects
 - My personal [portfolio](https://lukefantom.com). Built using React, this was an opportunity to learn Next.js and Tailwind CSS to build a responsive and dynamic website.
-- A full-stack greenfield application for a business in the fitness industry. The project is currently in the planning phase and will utilise technologies such as Sanity CMS, Next.js and the GoCardless API.
+- Playermade UK, a full-stack greenfield application for a business in the fitness industry. The app aims to deliver bespoke training programmes to schools and pro-club juniors, using technologies such as Sanity.io, Next.js and the Stripe API.
 - Building a mobile application for a small tech startup, using React Native. The application aims to support local coffee shops by highlighting independent businesses in local areas. 
 
 ### 🔭 Primary experience
